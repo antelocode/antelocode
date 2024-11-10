@@ -5,7 +5,7 @@
 
 - 📝 Our blog [https://medium.com/@antelocode](https://medium.com/@antelocode)
 
-- 💬 Ask about **HTML, CSS, TailwindCSS, Javascript, ReactJs & NextJs**
+- 💬 Ask about **HTML, CSS, TailwindCSS, Javascript, Laravel, ReactJs & NextJs**
 
 - 📫 Contact us **antelocode@gmail.com**
 
