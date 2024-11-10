@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we are Antelo code</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 All of our projects are available at [https://aryatjiutanto.vercel.app/](https://aryatjiutanto.vercel.app/)
+- 👨‍💻 All of our projects are available at [https://antelocode.my.id/](https://antelocode.my.id/)
 
 - 📝 Our blog [https://medium.com/@antelocode](https://medium.com/@antelocode)
 
